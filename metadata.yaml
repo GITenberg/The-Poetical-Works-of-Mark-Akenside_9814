@@ -1,0 +1,32 @@
+_repo: The-Poetical-Works-of-Mark-Akenside_9814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Akenside, Mark
+    birthdate: 1721
+    deathdate: 1770
+    gutenberg_agent_id: '3150'
+    url: http://www.gutenberg.org/2009/agents/3150
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Akenside
+  editor:
+    agent_name: Gilfillan, George
+    birthdate: 1813
+    deathdate: 1878
+    gutenberg_agent_id: '3126'
+    url: http://www.gutenberg.org/2009/agents/3126
+    wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 18th century'
+- GITenberg
+title: The Poetical Works of Mark Akenside
+url: http://www.gutenberg.org/ebooks/9814
